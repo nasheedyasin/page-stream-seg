@@ -1,0 +1,32 @@
+{
+    "imgPath": "some/path/dir",
+    "txtPath": "some/other/path/dir",
+    "documents": [
+        {
+            "docName": "aik94f00",
+            "pages": [
+                {
+                    "imgPath": "-page001.png",
+                    "textPath": "-page001.txt"
+                },
+                {
+                    "imgPath": "-page002.png",
+                    "textPath": "-page002.txt"
+                }                
+            ]
+        },
+        {
+            "docName": "aik95f00",
+            "pages": [
+                {
+                    "imgPath": "-page001.png",
+                    "textPath": "-page001.txt"
+                },
+                {
+                    "imgPath": "-page002.png",
+                    "textPath": "-page002.txt"
+                }                
+            ]
+        },
+    ]
+}
