@@ -10,7 +10,7 @@ def spectrum_iou(d1: Union[doc, None], d2: Union[doc, None]) -> float:
     if d1 is None or d2 is None:
         return 0
 
-    int_len = sum(1 for x in range(d1.start_idx, d1.end_idx + 1) if d2.start_idx <= x <= d2.end_idx + 1)
+    int_len = sum(1 for x in range(d1.start_idx, d1.end_idx + 1) if d2.start_idx <= x <= d2.end_idx)
 
     return int_len / ((max(d1.end_idx, d2.end_idx) + 1) - min(d1.start_idx, d2.start_idx))
 
