@@ -107,7 +107,7 @@ def main(img_path: str, txt_path: str, output_path: str,
 
     # Save the test data
     data_json.update(documents=doc_test)
-    with open(str(Path(output_path) / "tes_data.json"), 'w',
+    with open(str(Path(output_path) / "test_data.json"), 'w',
               encoding='utf-8') as data_file:
         data_file.wrtie(json.dumps(data_json))
 
