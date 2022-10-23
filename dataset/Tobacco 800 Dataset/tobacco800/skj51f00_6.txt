@@ -1,0 +1,21 @@
+APPENDL.
+Experimental Procedure
+
+Material and procedures used in this experiment were the same as reported
+in Hsieh, File Note dated March 28, 1980, except the following:
+
+The column temperature in preparative gas chromatography was maintained
+at 80°C for 7 minutes, then programmed at 4°C/min. to 230°C. Two such
+runs were cartied out to obtain a larger amount of ¢.
+
+one injection to acquire better signal-to-no
+
+spectrometry.
+
+The column temperature in fused silica capillary GC/MS was maintained
+at 40°C for 10 minutes, then programmed at 2°C/min. to c, and then
+programmed at 6°C/min. to cleanup the columa. Electron impact mode of
+mass spectrouetry was used for identification. ~
+
+56320447
+

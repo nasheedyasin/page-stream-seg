@@ -1,0 +1,59 @@
+3
+a Sudol, Marius 129-68-8626
+
+9. SUPPORTING DATA, RESEARCH PLAN. Do not attach more than six additional
+pages (3a-3f). Please note that this page limit includes FIGURES and REFERENCES,
+
+BACKGROUND
+
+The first identification of transforming genes came from studies of RNA tumor viruses
+(1,2}. These viral genes, called oncogenes (v-one), were later shown to be altered versions of
+normal cellular genes, called proto-oncogenes (c-one) (1,6). The common feature of all on-
+cogenes is their ability to induce transformation of normal cells. In contrast, no common
+functional denominator has been found for the proto-oncogenes identified to date, but it is as-
+sumed that these genes control aspects of cellular growth and differentiation. Some proto-
+oncogenes code for growth factors, growth factor receptors that encode kinases, or GTP-
+binding proteins (7). Others code for plasma membrane associated or cytoplasmic kinases,
+and proteins localized in the nucleus (29). Our research is focused on those proto-oncogenes
+which encode non-receptor type protein-tyrosine kinases. The physiological functions of these
+proteins are not known.
+
+Rous sarcoma virus (RSV) was the first virus shown to induce solid tumors in animals
+(22), and cell transformation by RSV is one of the most well-studied systems of tumorigenesis
+(11). The transforming gene product of RSV, p60”*”, is a 60 kD membrane-associated
+phosphoprotein that possesses intrinsic protein-tyrosine kinase activity (2,11,14), The
+biochemical properties of its cellular homologue, p60 “sre are similar to those of peo” ** 5 OX-
+cept that as a result of mutations, the tyrosine kinase activity of the viral protein is elevated
+at least ten-fold in comparison to the cellular enzyme (8).
+
+The transforming properties of Yamaguchi 73 (Y73) and Esh avian sarcoma viruses are
+directed by cell-derived yes sequences (24,36). These viruses were independently isolated from
+spontaneous tumors in chickens (9,36). Both are replication defective, induce sarcomas in
+vivo, and transform chicken embryo fibroblasts (CEF) in vitro (5). The v-yes transforming
+gene of Y73 virus also encodes a phosphoprotein with tyrosine-specific kinase activity. The
+amino acid sequence of v-yes shows a high degree of homology with peo’*ré (12). The
+greatest extent of sequence similarity exists in the carboxy-terminal domains. The c-yes se-
+quence differs from its viral homologue by 4 amino acid substitutions and in its carboxy-
+terminal peptides (28). Ag in the case of sre, the kinase activity of v-yes protein is elevated
+compared to that of p62 4° (26).
+
+Comparison of the pez” ¥e5 and peo" *"¢ sequences to a protein data bank reveals 4
+blocks of amino acid sequence similarity to other members of the non-receptor class of
+protein-tyrosine kinases (36). These blocks are termed A, B, C, and kinase domain, Two of
+these blocks, one of approximately 50 amino acids (block B), and the other of approximately
+10 residues (block C), are found in all non-receptor tyrosine kinases and were previously
+termed the ”SH2” domain (for src homology 2, SH1 being the kinase domain) (36,39). The
+third block of homology, termed A or ”SH3”, is present in all cellular non-receptor tyrosine
+kinases except c-fps. Recently other gene products have been shown to contain SH3 and/or
+SH2 domains. These include the crk oncogene (34), phospholipases (43), GTPase Activator
+Protein (55), and spectrins (32). The presence of strongly conserved SH2 and SH3 motifs in
+diverse proteins implicated in signa! transduction suggests an important function for these
+domains. We propose an anti-idiotypic approach for isolating the proteins that interact with
+the SH3 and SH2 domains of p62°9°* and peo” *"*.
+
+Expression of ps2” ¥e8 is relatively high in the brain, retina, liver, kidney, and lung of
+é
+
+birds and mammals. In the brain, elevated levels of p62°%°* are found in cerebellum,
+specifically in its Purkinje cells (26,27,29,30). In this proposal, we describe isolation of a pro-
+

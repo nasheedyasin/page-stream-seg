@@ -1,0 +1,45 @@
+~26
+
+resolution before it can de more widely used, For our study, a prepa-
+rative cation exchange chromatographic procedure for {solatin of sugar~
+amino acid complexes was modified for the separation of the seven starting
+amino acids, since an in-house amino acid analyzer was not available; and
+the Product Department requested that this sample not be analyzed by an
+
+outside laboratory.
+
+Results and Discussion
+
+Leucine (5 mg, the internal standard) was added to a 2-g portion of
+
+HETCAL, and the sample was applied to a cation exchange columa (u*
+
+form). After washing with water to remove unbound material, the column was
+eluted with 7 N WH,OH to give the bound material, which was then
+freeze-dried to give a residue of 346.1 mg. This material contained the
+amino acids from METCAL and leucine, A 60 mg aliquot of this sample was
+chromatographed on Na* form cation exchange resin (see Appendix for
+
+experimental details),
+
+Figure 1 (Panel A) shows the chromatogram of the bound material (amino
+acid fraction) from METCAL, in which aspartic acid, valine, and phenyl-
+alanine were the major residual amino acids. Two unknown peaks were
+observed, The first unknown peak eluted between valine and leucine,
+
+The second unknown peak eluted at 15.5 hr. These unknown peaks did not
+correspond to any starting amino acid. Figure 1 (Panel B} shows a typical
+chromatogram of one of a series of standard amino acid mixtures. These
+standatd amino acid mixtures contained a fixed amount of leucine end
+increasing amounts of the other amino acids. Figures 2 - 8 show the
+standard calibration curves.
+
+Table I summarizes the results of the analyses. Valine, aspartic acid,
+
+and phenylalanine were found to be the major residual amino acids present
+at 1.5%, 0.45%, and 0.18% by weight of METCAL, respectively. Glutamic
+acid, glutamine, and histidine were estimated to be below 0.03% each; and
+proline was estimated to be below 0.07%.
+
+620836739
+

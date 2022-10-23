@@ -1,0 +1,35 @@
+The validity of Analysis of Variance rests on several key
+assumptions including, homogeneity of variance and normality.
+We were wondering if your statistical programs test the data
+for these assumptions before the ANOVA is carried out? If
+not, perhaps a test for homogeneity of variance andi a test
+for normality on all data that are to be tested with ANOVA
+is in order. Some parameters (e.g. enzyme concentrations),
+currently being tested by Kruskal- Wallis, may be more
+appropriately tested by ANOVA unless you have historical
+data which indicates that these are more appropriately
+handled by non-parametric statistics. We can discuss the
+statistical treatment of these parameters at a later time.
+
+.We are in the process of reviewing the statistics used in other
+studies under your direction. We will be contacting you soon to
+discuss our conclusions as well as changes to be made in the
+analysis of the "Six-Week" studies.
+
+If you have any questions or comments, please feel free to call.
+f
+
+Thomas A. Vollmuth, Ph.D.
+Toxicologist, Life Sciences
+
+TAV/lp:1
+
+@ :
+°
+pers
+Se)
+b3
+2
+@
+a
+

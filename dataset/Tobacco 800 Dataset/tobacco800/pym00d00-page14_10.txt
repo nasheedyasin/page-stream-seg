@@ -1,0 +1,52 @@
+BRIEF DESCRIPTION OF FIGURES
+
+Fig. 1. Immunoprecipation of 356 methionine
+labeled proteins from chicken embryo fibroblasts
+with anti-idiotypic antibody to yes protein
+(imm8, imm9) and with pre-immune sera (pre8,
+preg). A protein of relative molecular mass 65
+kD (arrow) was reproducibly precipitated from
+the labeled cells.
+
+Fig. 2. Immune blot analysis of total lysates of
+chicken embryo fibroblasts (CEF) with anti-
+idiotypic antibody raised against yes protein.
+Total lysate of CEF from different passages (to
+ensure lack of contamination from  non-
+fibroblastic cells) was fractionated on SDS-gel,
+lanes 3-5. The first lane shows the immunopre-
+cipitate of CEF lysate with preimmune serum
+and the second lane with immune serum. The
+blot was probed with anti-idiotypic IgG and
+iodinated protein A. Positive results in immune
+blot analysis encouraged screening of a Purkinje
+
+ero cDNA library with anti-idiotypic
+ntibody.
+
+Fig. 3. Northern blot analysis of mRNA for anti-idiotypic clone and for yee gene. Poly (A)+
+RNA was isolated from two-week-old chicks and 5 ug of the RNA was fractionated on
+agarose gel and transferred to nitrocellulose. T, telencephalon; C, cerebellum; S, spleen; I, in-
+testine; M, muscle; H, heart; L, liver; K, kidney. cDNA encoded by anti-idiotypic clone
+(upper panel) and chicken yes cDNA (lower panel) were used as probes. Probes were labeled
+by random priming using radioactive dCTP.
+
+Fig. 4. Sequence of expression clone isolated from Purkinje cell-enriched library with anti-
+idiotypic antibody. The EcoRI-EcoRI insert of 1001 bp encodes an open reading frame that
+is in frame with sequence of beta-galactosidase protein of the phage. The coding sequence
+shows no significant similarity at either the nucleic acid or protein levels to any known se-
+quence in Gene Bank.
+
+Fig. 5. Analysis of 65 kD protein and pea” #64 immunoprecipitated from glycerol gradient
+(10-30%) fractions of total lysate of chicken embryo fibroblasts labeled with radioactive leu-
+cine. Fractions were divided in half and precipitated with anti-idiotypic antibody (upper
+panel) or with anti-yes IgG (lower panel), The c-yes protein was visualized by autophospho-
+rylation in immune complex kinase assay. Both proteins comigrated in heavy fractions of the
+gradient.
+Fig. 6. Three proteins associated with p60°°"* in A431 cells treated with calcium ionophore.
+@: control A431 cells precipitated with anti-sre monoclonal antibody. After addition of calci-
+m ionophore (B, 10 minutes; C, 30 minutes; D, 1 hr; E, 6 hr) cells were lysed in RIPA buffer
+and immune complex kinase assay was performed on src immunoprecipitates. Solid arrows
+indicate proteins that are apparently associated with sre kinase and are phosphorylated in vi-
+tro and in vivo on tyrosine residues.
+

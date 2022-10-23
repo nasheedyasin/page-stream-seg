@@ -1,0 +1,19 @@
+Table 1: Combinations of Experimental conditions
+
+Attribute
+preference Position presentation Type
+
+Preference Posi
+First sequential yonaaic Descriptive
+First sequential Monadic Evaluative
+First simultaneous peseriptive
+First . simultaneous Evaluative
+Second sequential Monadic peseriptive
+second sequential Monadic Evaluative
+
+Second Simultaneous pescriptive
+
+second Simultaneous Evaluative
+
+465956995
+

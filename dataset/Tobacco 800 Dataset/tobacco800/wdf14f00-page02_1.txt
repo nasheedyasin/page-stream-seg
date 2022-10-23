@@ -1,0 +1,50 @@
+LBV
+
+BROWN & WILLIAMSON TOBACCO CORPORATION
+
+fa ' : ve key WO
+
+November 23, 1976
+
+Dr. Marvin A. Kastenbaum
+Director of Statistics ry
+The Tobacco Institute, Inc.
+
+1776 K. Street
+
+Washington, D.C. 20006
+
+Re: Letter of October 7, 1975
+Dear Marvi
+As I mentioned in our telephone conversation, Dr. I. W. Hughes -has
+
+asked me to review the Montgomery Counly Maryland Public Smoking
+Testimony (Bill 26-76, Scull and Gelman).
+
+The author assumes an imput/output tar generation model for the room.
+The parameters used in the numerical estimates are approximately
+correct. However, the model in reality is describinga "tar potential".
+
+The limiting or dy ates
+
+that there is so much tar a able per cubic meter. The important
+issue is the human-smoke inte ton and therefore is the one that
+must be addressed before "leaping to co ons", author's
+model obviously does nol include this interaction.
+
+Critical points which are not incorporated in the model ar
+
+KL yields tar in ug/m* what is the particle size distribution
+
+associated with Ji? Sidestream smoke tends tac
+
+rapidly thus forming large particles. Taking this point
+
+into consideration leads one to question the meaning of
+uation solution,
+
+>
+gb
+
+PSsest029
+

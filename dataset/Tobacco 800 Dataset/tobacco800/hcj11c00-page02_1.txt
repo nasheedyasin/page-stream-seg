@@ -1,0 +1,44 @@
+MALTBE
+YTUN
+
+September 16, 1993
+
+Ms. Susan Levey
+
+Marketing Information Technologies, Inc.
+International Corporate Center
+
+555 Theodore Fremd Avenue
+
+Rye, NY 10580
+
+Re: ULT/LT Model Development for Selective Binding
+Dear Susan:
+
+Attached are my corrections to the Simmons Tar level classifications that you sent to
+us. Since MRD recently audited the brand information on the database, we should
+use the tar level classifications on the database. Hopefully, this recategorization of
+the tar levels will bring the percentage of full flavor smokers up closer to 38%.
+According to our latest MSA data, about 38% of the category is full flavor and the
+remainder is low tar (49%) and ultra low tar (13%).
+
+There are a few newer brands missing from the 1991 Simmons information. Most of
+these are franchise brands (Bull Durham, Misty, Montclair, Riviera). This is not
+really an issue since we would not want to target our franchise brands for Carlton
+selective binding anyway. The competitive brands that are missing are as follows:
+Merit Ultima, Saratoga, Savannah, Savvy and Sterling. Of these, Merit Ultima is the
+only brand that is a ULT full revenue target for Carlton.
+
+If possible, the model should prioritize full revenue ULT/LT brands. We have seen
+
+from our NOTS data that 96% of Carlton inswitchers come from full revenue brands.
+We may want to weight tar level as well. 47% of the inswitchers come from low tar
+brands and 30% from ULT brands.
+
+SIX STAMFORD FORUM TELEPHONE: 203 325 49c0
+PQ. BOX 10380 FACSIMILE: 203 352 4164
+STAMFORD CONNECTICUT 06904-2380
+
+639000274
+PRODUCED FROM BéW WEB SITE
+

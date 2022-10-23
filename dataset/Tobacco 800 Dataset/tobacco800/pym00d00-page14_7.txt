@@ -1,0 +1,62 @@
+3d
+Sudol, Marius 129-68-8626
+
+discrete mRNA and whose fusion proteins prevent the formation of a protein-enc complex.
+Special attention will be given to proteins which are phosphorylated on tyrosine.
+
+b. Potential Substrates of the Cellular-sre Kinase
+
+We propose to isolate substrates of the sre proto-oncogene kinase. It is likely that these
+substrates are different from those of the v-sre protein, the activated tyrosine kinase, The
+choice of this experimental model came from studies on the differentitation of keratinocytes.
+We observed that the endogenous p60°°"° in A431 cells treated with micromolar concentra-
+tions of caleium ionophore in the presence of extracellular calcium shows association with 3
+cellular proteins of molecular masses 120, 67, and 37 kD (Fig. 6). These proteins coprecipitat-
+ed with p60°°"* in detergent containing buffers and were Rhosphorylated in vitro and in vivo
+on tyrosine. The pattern of their association with p60~ © was not dependent on the anti-
+body used as other monoclonal and polyclonal antibodies showed similar results. The sre-
+associated proteins are not related to each other or to p60°""* as determined by one dimen-
+sional peptide mapping. This phenomenon was not observed for p62” °~”.
+
+Using standard methods of protein chemistry, we will purify the 3 proteins associated
+with p60 °"°, Affinity chromatography with sre monoclonal antibody GD11 (20) coupled to
+CNBr activated Sepharose will be used. Large quantities of A431 cells will be grown in roller
+bottles. FPLC (which is available in the lab) will be employed to optimize the conditions of
+purification. Purified proteins will be subjected to partial protein microsequencing in order to
+obtain information for the synthesis of oligonucleotide probes. Isolation and characterization
+of cDNAs for the polypeptides will be performed using basic methods of molecular cloning.
+
+We will characterize these proteins using standard biochemical techniques. The basic ap-
+
+proach will be to generate antibodies to the proteins predicted from DNA sequence analysis of
+molecular clones. Antigens will be either synthetic peptides or proteins expressed in bacteria
+from cDNA clones. For this purpose, we will take advantage of the University’s biochemistry
+service laboratory for synthesizing peptides and the animal facilities for keeping rabbits. The
+antibodies will be used to identify and characterize these proteins in control A431 cells and in
+cells treated with calcium ionophore. Many different biochemical properties of these proteins
+will be investigated, including phosphorylation, subcellular localization, enzymatic activity,
+
+and interaction with p6o°° To determine the binding regions, we will generate various
+
+deletion mutants in the molecular clones expressed in bacteria and we will study the forma-
+tion of complexes in vitro. Available mutants of p6o°*"* should be helpful if we show that
+the chicken sre protein can associate with these proteins as the human sre protein does. By
+studying these 3 proteins we may eventually be able to reconstruct the initial molecular
+events involved in the activation of p60~”'“ in normal cells.
+
+Some complications are anticipated. The studied proteins may not be phosphorylated by
+p60 *"* but by other cellular kinases activated by the treatment of A431 cells with calcium
+ionophore. Therefore the pathway that we think is specific for sre may be more complicated.
+Minute quantities of purified proteins (nanograms) may present difficulties in obtaining pro-
+tein sequence data, especially if their amino termini are blocked and further manipulations
+are required to generate internal peptides. We are testing now whether overexpression of the
+c-sre protein in A431 cells can increase the relative concentration of proteins within the com-
+plex.
+
+LITERATURE CITED
+
+1. Bishop, M. (1985) Cell 42:23-38
+
+2. Bishop, M., and Varmus, H. (1982) In RNA Tumor Viruses, ed. R. Weiss, N. Teich, H.
+Varmus and J. Coffin, pp.999-1108. Cold Spring Harbor Laboratory, 2nd edition.
+

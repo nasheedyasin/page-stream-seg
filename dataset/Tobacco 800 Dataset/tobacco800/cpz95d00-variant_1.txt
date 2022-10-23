@@ -1,0 +1,43 @@
+Harvard Medi
+Department of P.
+
+April 2, 1993
+
+Harmon C. McAllister, Ph.D.
+Research Director
+
+The Council for Tobacco Research
+900 Third Avenue
+
+New York, NY 10022
+
+Dear Dr. McAllister:
+
+Case number 3986: Progress report
+
+Since submitting the above referenced grant application, we have obtained
+additional data on the association between FcyRI and FceRly, and we have determined the
+identity of a sre-type protein tyrosine kinase which becomes hyperphosphorylated
+following FcyRI engagement.
+
+1. FeyRl-associated FceRIyis a disulfide-linked homodimer
+
+In our preliminary data, we demonstrated that ac. 14 kD protein is co-precipitated
+with FeyRI by anti-FcyRI mAb 197 from digitonin lysates of !251-labeled THP-1 cells.
+This protein co-migrated with FceRIy and was recognized by an anti-FceRIly mAb, 4D8.
+We have since performed two-dimensional nonreducing-reducing gel electrophoresis on
+mAb 197 and mAb 4D8 immunoprecipitates from THP-1 cells. As shown in Figure 1,
+both mAb precipitate a spot (indicated by arrow) migrating below the diagonal, indicating
+a disufide-linked homodimer. This result provides further confirmation of the identity of
+the 14 kD FeyRI-associated protein and FceRly. The role of FceRly homodimer formation
+in FcyRI signaling will be further addressed in mutational studies, as detailed in the
+proposal.
+
+bobreducing -
+
+Lysates were immunoprecipitated with mAb 197 (anti-
+FeyRI, left hand panel), or with mAb 4D8 (anti-FceRly, right hand panel), and analyzed by two
+dimensional nonreducing/reducing gel electrophoresis and autoradiography. First dimension
+(nonreducing) runs from left to right; second dimension (reducing) runs from above to below. Arrow
+in left hand panel indicates position of c.14 kD off-diagonal spot.
+

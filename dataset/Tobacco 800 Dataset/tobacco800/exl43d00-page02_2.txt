@@ -1,0 +1,30 @@
+A source of nicotine and ammonia loss to the stack, other than
+that shown in the table, is the back flow from the cold regenerator every
+time the cycle reverses. Mr. W. R. Kepley has calculated this to be
+approximately 0.1% of the flow from four treaters or 0.2% of the flow
+from two treaters. This is equivalent to 0.32 lb. nicotine and 0.64 ib.
+ammonia per reversal. During the test run reported here, the minimum
+cycle time was about 15 minutes. This added about 1.3 lbs. nicotine and
+2.6 Lbs. ammonia per hour to the figures shown in the table. Thus, total
+stack losses of 3 to 4 lbs. per hour of nicotine and 8 to 9 Lbs. per hour
+of ammonia were occurring. This does not appear to be a serious contami-
+nation since it is discharged at the top of a 65-foot stack and could only
+be detected by stack gas odor for periods of 1 to 2 seconds about four
+times per hour. When operating only two treater lines, such more frequent
+cycling occurred and stack losses on the order of 5 to 7 lbs. per hour of
+nicotine and 10 to 15 lbs. per hour of ammonia could have occurred. Removal
+of the four extra {ncinerator burners with their cooling air as already
+mentioned would reduce cycling time by improving the balance of the heating
+and cooling loade on the regenerators and thus reduce contamination as well
+as fuel consurption.
+
+Robert M. Neel
+
+Research Department
+
+Murray Senkus
+
+8. 0. Jones
+Nelson Carmichael
+R. E. Boose
+

@@ -1,0 +1,55 @@
+o)
+
+CPT DESIGN/CIGARETTE
+DESCRIPTION
+
+1984-287
+NON-MENTHOL
+
+Pack
+Bottom Code
+
+#254 Cartons
+BETA NM 94 "C-AMELIA 680V" 42871
+#274 Cartons WHITE TIPPING
+CELL 1
+#274 Cartons VIRGINIA SLIMS LIGHTS NM 100
+#254 Cartons WHITE TIPPING
+
+#342 Cartons BETA NM 94 "D-STETSON 662Q"
+#362 Cartons WHITE TIPPING
+
+CELL 2
+#362 Cartons VIRGINIA SLIMS LIGHTS NM 100
+#342 Cartons WHITE TIPPING
+
+#462 Cartons BETA NM 94 "C — AMELIA 680V"
+
+#482 Cartons WHITE TIPPING
+
+CELL a
+eis Cartons
+
+#462 Cartons
+
+BETA NM 94 "D - STETSON 662Q"
+WHITE TIPPING
+
+Smokers for each Cell (3 in Total)
+
+- Non-Menthol
+~. Female
+
+« 21-25
+
+- 100's
+
+220 Marlboro Lights
+
+220. Virginia Slims Lts
+440 Placements/400 Completes
+
+1320 Total Placements/1200 Total Completes
+
+£68TPSOL9
+

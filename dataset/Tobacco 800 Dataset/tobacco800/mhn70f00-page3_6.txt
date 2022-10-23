@@ -1,0 +1,11 @@
+-6+
+
+plotting area ratios of each amino acid over the internal standard against
+the weight ratios. A computer program was used to carry out linear
+regression analysis and construct a line of best fit for each standard
+calibration curve. The weight ratio of each residual amino acid against
+
+the internal standard was determined from the line of best fit.
+
+620836743
+

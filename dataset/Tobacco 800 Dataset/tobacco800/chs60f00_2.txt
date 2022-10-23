@@ -1,0 +1,91 @@
+TABLE 1
+
+DELIVERIES AND FILTRATION EFFICIENCIES OF CHARCOAL
+CIGARETTES WITH WET AND DRY BPL CARBON
+
+323007 T.S.
+
+Component, pes/cig
+
+Methane 1143
+Ethylene 216
+Ethane 399
+Propylene 214
+Propane 177
+Methyl Chloride
+Acetaldehyde
+
+Isobutylene
+1,3-Butadiene
+
+n-Butane
+
+2-Butene (Cis)
+Acetonitrile
+
+Acrolein + furan
+Propionaldehyde
+
+Acetone
+
+2-Methy], 1-butene
+Isoprene
+
+Isobutyraldchyde
+
+2-Methyl furan
+
+Methyl Ethyl Ketone
+Benzene
+
+Toluene
+
+O-Xylene
+
+BPL + 26% 1,0 Included
+
+gs/cig
+114i
+250
+404
+200
+169
+174
+296
+45
+20
+36
+13
+29
+51
+13
+71
+6
+42
+23
+8
+16
+13
+49
+
+13
+
+y Filtration
+
+BEL, Dried 3 Hours at_150°C
+
+BEL, Dried 3 Hours ates
+
+zss/eig,
+1090
+
+230
+
+% Filtration
+
+4.6
+
+620840104
+
+HUM/6-12-69
+
