@@ -1,32 +1,3 @@
-{
-    "imgPath": "some/path/dir",
-    "txtPath": "some/other/path/dir",
-    "documents": [
-        {
-            "docName": "aik94f00",
-            "pages": [
-                {
-                    "imgPath": "-page001.png",
-                    "textPath": "-page001.txt"
-                },
-                {
-                    "imgPath": "-page002.png",
-                    "textPath": "-page002.txt"
-                }                
-            ]
-        },
-        {
-            "docName": "aik95f00",
-            "pages": [
-                {
-                    "imgPath": "-page001.png",
-                    "textPath": "-page001.txt"
-                },
-                {
-                    "imgPath": "-page002.png",
-                    "textPath": "-page002.txt"
-                }                
-            ]
-        },
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b135908ad644213075a3caa500d0f94dbdeeab62230b4ce693b5c4feb287b83
+size 897
