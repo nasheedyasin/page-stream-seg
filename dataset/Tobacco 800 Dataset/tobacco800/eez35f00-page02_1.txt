@@ -1,0 +1,47 @@
+THE
+AMERICAN
+TOBACCO
+COMPANY
+
+AMERICA
+
+N BULL DURH¢ CARLTON LUCKY STRIKE MALIBU
+MISTY MON AIR PALL MALL AREYTON
+
+April 6, 1993
+
+Mr. Alan Sherman.
+
+Database Services Manager
+
+Clarion Marketing and Communications
+340 Pemberwick Road
+
+Greenwich, CT 06831
+
+Dear Alan:
+
+As discussed, we are looking to increase our PALL MALL bond mailing quantity to
+310M. Based on the deduped counts by Prizm code that you produced earlier, we
+need te come wp with more names. Please produce additional counts as follows:
+
+- Produce counts by Prizm cluster for the following 4 groups:
+
+1.) PMNF "Join the Family" responders
+
+2.) PM Default "Join the Family" responders
+
+3.) PM Non-Filter smokers on the database
+
+4.) PM Default smokers on the database (suppress responders to the
+following promotion codes; PBINDO; PCLINDO, PD1NDO and
+PA3XB9).
+
+Criteria:
+
+1.) Produce deduped counts for all names 0 - 24 months and
+24+ months on database. Please keep these 2 groups separate.
+Break out the count of non-responders and responders to the 1992 PALL
+MALL bond mailing within cach Prizm cluster for each of the 4 lists.
+Suppress ali Texas and Arkansas names.
+

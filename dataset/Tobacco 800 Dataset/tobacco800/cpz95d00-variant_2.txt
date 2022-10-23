@@ -1,0 +1,31 @@
+2. Hyperphosphorylation of the src kinase hck induced by FcyRI engagement
+
+To assay for sre kinase activation following FeyRI engagement, we used a panel
+of rabbit anti-peptide antisera generated in our laboratory that react specifically with
+different src family protein tyrosine kinases, including heck, fer, lyn, and sre, all of which
+are expressed in monocytes. We made use of a sensitive in-situ kinase assay to detect
+autophosphorylation of src PTK, which accompanies their activation. THP-1 cells were
+stimulated with anti-FcyRI mAb 197, then permeabilized with o-lysophosphatidylcholine
+and incubated on ice in the presence of 32P-y-ATP. Cells were then subjected to detergent
+lysis and immunoprecipitation with the different anti-sre antisera. As shown in Figure 2,
+we detected an increase in phosphorylation in kek in THP-1 cells within 30 seconds of
+stimulation by anti-FcyRI mAb. In contrast, we did not detect increases in
+phosphorylation of other src PTK (not shown). These results suggest that activation of
+the PTK kek is coupled to FeyRI engagement. We are currently evaluating the physical
+association of src kinases with FeyRI. Our preliminary data suggest that hck and lyn are
+present in anti-FeyRI immunoprecipitates from THP-1 cells and peripheral blood
+monocytes, as detected by immunoblotting.
+
+20407 vay
+
+engagement in THP-1 cells, In situ kinase assay was performed as described in text. Anti-hck
+immunoprecipitates from lysates of cells stimulated for between 0-5 minutes (as indicated) were
+analyzed by gel electrophoresis and autoradiography. M.W. markers (right hand lane) are at 92, 69 and
+46 kDa. Four other experiments gave similar results.
+
+I trust that this information will be helpful to the reviewers of the application.
+
+Sincerely yours,
+
+Raif S. Geha, M.
+

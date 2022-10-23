@@ -1,0 +1,40 @@
+Ion Exchange Chromatography of Amino Acids
+
+The H* form resin purchased was first converted to the Na‘ form by
+passing 2 column volumes of 1.N NaOH through it, followed by rinsing the
+resin with 4 column volumes of deionized water. The resin was then packed
+into a 1.6 x 100 cm water-jacketed column (reein bed 1.6 x 90 cm), and the
+column was equilibrated with 0.2 .N NaOH for 2 hours and then 0.2 N sodium
+citrate buffer pH 3.25 for another 2 hours. The flow rate was 1.92
+ml/min,
+
+The samples were dissolved in 10 wl of 0.2 N sodium citrate buffer pH 2,2
+and applied to the equilibrated colum. A Rheodyne Type 50 Teflon rotary
+value with a 10 ml sampling loop was used to load the sample onto the
+column, The column was then eluted with 0.2 N sodium citrate buffer pi
+3.25 for 5 hours 45 minutes, and then with 0.25 N sodium citrate buffer pH
+5.0 for another 21 hours.
+
+Detection of Amino Acids by Post: umn Ninhydrin Reaction
+
+The amino acids eluted from the column were monitored by a post-column
+
+ninhydrin reaction unit, as modifed from a procedure of Ertingshausen,
+
+et al, The unit consists of components from the Technicon AutoAnalyzer
+
+Il system (Technicon Industrial Systems, Tarrytown, NY): 4 multi-channel
+peristaltic pump (Pump III), miming coils, a thermostated bath, a colori-
+meter, and a recorder. A schematic is shown in Figure 9. The peristaltic
+pump was used to pump (1) buffer to and effluent from the chromatographic
+column, (2) reagents into the reaction system, and (3) effluent from the
+colorimeter, The air-segmented stream of reagents plus column effluent
+was fed into the reaction coil which was kept at 95°C in an oil bath. The
+absorbance was measured at 550 nn.
+
+Data Reduction
+620836742
+The peak areas in chromatograms were measured in square centimeter units
+by using a compensating polar planimeter (Model No. 4236 M, Keuffel &
+Esser Co., New York, N¥). Standard calibration curves were constructed by
+

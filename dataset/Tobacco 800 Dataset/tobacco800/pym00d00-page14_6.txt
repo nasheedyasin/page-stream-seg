@@ -1,0 +1,55 @@
+Sudol, Marius 129-68-8626
+
+terminal region) (26). The anti-idiotypic antibody was obtained in rabbits and tested in im-
+munoprecipitation assays. It precipitated and recognized on immune blots a 65 kD protein
+(Fig. 1 & 2) with the following characteristics: the protein was not active as a kinase, it was
+not phosphorylated on tyrosine, it was expressed in the brain and in primary and tertiary
+CEFs, and it comigrated with p62 4° in heavy fractions on glycero) gradients (Fig. 5). This
+suggests to us that the two proteins form a complex.
+
+Using the anti-idiotypic antibody and a cDNA expression library constructed of mRNA
+from the molecular layer of the cerebellum (which contains Purkinje cells), we have isolated
+one positive clone whose fusion protein competed away the 65 kD protein in precipitation as-
+says. The partial coding sequence of the clone (which we call clone 11) shows no significant
+similarity at either the nucleic acid or protein levels to any known sequence in the Gene Bank
+(Fig. 4). The new gene encodes a 4.2 kb mRNA and is expressed in various tissues including
+the brain, kidney, liver, and spleen (Fig. 3 & 4).
+
+We will characterize the complete cDNA sequence encoding the 65 kD protein. We have
+
+isolated 5 cDNA clones from a chicken brain cDNA library using the clone 11 cDNA as probe.
+Their sizes are 2.4, 2.3, 2.3, 1.9, and 1.2 kb. Analysis of these clones at the level of primary
+sequence is in progress.
+To show direct interaction between peg #5 and the 65 kD protein we will generate anti-
+bodies against the 65 kD protein by expressing its cDNA in bacteria. We will select those
+fragments of the cDNA which do not encode parts of the protein involved in the apparent in-
+teraction with the yes kinase, that is, outside of the sequence contained in clone 11. An ex-
+pression vector based on the trp operon will be used to produce large quantities of these an-
+tigens in bacteria (35). We will test the interaction of the 65 kD protein with the viral-yes
+gene product and with other proto-oncogene and oncogene proteins, including sre, crk, and
+fos. Once direct physical interaction is documented and its effect on the kinase activity of yes
+protein is shown, we will construct various deletion mutants of c-yes and of the 65 kD protein
+in order to map accurately the domains involved in the interaction between these proteins.
+
+Encouraged by the preliminary results with anti-idiotypic antibodies for p62 4°" we are
+planning to extend this approach to other domains of yes protein and to the viral and
+cellular-sre protein. Using available polyclonal and monoclonal antibodies, we will generate
+anti-idiotypic antibodies to other domains of p62" ¥ and to p60’ *"*, specifically to the SH2
+domain and to the extreme amino terminal domain involved in the interaction with mem-
+brane receptors. Polyclonal antibodies against the SH3 and SH2 domains of human yes (35),
+commercially available antibody against the extreme amino terminal domain of sre (Mab 2-17
+from NCI), and monoclonal antibody GDi1 against the SH3 domain of sre (20) will be used.
+
+A number of complications are anticipated with the above approach. Antibodies raised
+against monoclonal antibodies do not necessarily produce anti-idiotypic reagents (16). The
+epitopes recognized by the monoclonal antibodies selected by us do not have to represent
+domains involved in protein-protein interactions or could recognize partially denatured epi-
+topes. To increase our chances of raising anti-idiotypic antibodies we will also use polyclonal
+antibodies, The Fab fragments, which contain antigen-recognition domains, will be isolated
+from the affinity purified polyclonal IgGs and used as antigens.
+
+Stringent criteria will be used to eliminate false positives, i.e., proteins precipitated by the
+immune serum as a result of raising antibodies to antigens contaminating the IgG or Fab
+fragment preparations. These criteria will include: the formation of a complex with the origi-
+nal antigen, the recognition of the secondary antigen, the isolation of clones which code for
+

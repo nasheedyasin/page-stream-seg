@@ -1,0 +1,59 @@
+Bernie Levine
+_ October 19, 1979
+Page - 2-
+
+two products, but instead to evaluate alternative methodologies.
+For example, is one alternative a more sensitive test of preference
+‘‘than another? That is, is one alternative more likely to produce
+
+a significant difference petween A and B than is another? In youx,
+analyses, statistical gignificance will be defined at a C.L. of 90%.
+However, you are to report exact probabilities. The following
+analyses is the minimum required:
+
+1. Individual Experimental cells
+
+a. Preference - tested with a chi squared,
+
+2 (ayy) ?
+
+x! =
+(1) = TNYFNFN3
+
+Ny number of respondents preferring A
+
+NQ number of respondents preferring B
+
+Ng number of respondents expressing no preference
+
+preference is to he proken out for:: the total, by sex,
+py age .(21-34, 35+), and by tar level of regular brand
+(greater than 15 mg., 15 mg. or legs).
+
+attributes - of which there are 10 plus the overall -
+
+are to be broken for: the total, by sex, by age, by
+
+tar level, and by preference (prefer Ay prefer B, no
+preference). Also, for each attribute, r's are to
+
+be calculated between preference (1 = prefer’ A, Oo=
+
+no preference, ~l = prefer B) and difference between
+attribute ratings (A~-B)}. These r's should reflect the
+extent to which attribute ratings reflect the individual's
+attempt to attribute characteristics to the products
+which justify his preference.
+
+2. Over Experimental cells
+
+a. Preference. These will pe X2's, where the expected
+values are equal to observed row frequency X column
+frequency/total frequency. Here preference (prefer A,
+prefer B, no preference) is to be broken out by
+presentation type, by preference placement, by :
+replications within each preference placement, and by
+preference placement within each presentation type.
+
+465956993
+

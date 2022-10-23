@@ -1,0 +1,52 @@
+GEMINI DESCRIPTION
+
+Cigarette
+
+*Length: 84 and 97 mm
+
+*Tipping: 32 mm (84's) and 36 mm (97's) full glued
+
+Ventilation: 52% (84's) and 50% (97's)
+
+*Circumference: 24.8 mm
+
+*Tobacco weight: 697 mg
+
+Tobacco Section Pressure Drop: (a) 5.6 cmW.G. (b) 7.4 cmW.C.
+
+Cigarette Pressure Drop: (open) (a) 6.9 cmW.G. (b) 8.4 om W.G.
+
+(sealed) (a) 13.5 em W.G. (b) 16.8 cm W.G.
+
+Delivery: (a) Tar - 6.5 mg = Nicotine’- 0.51 mg NRE - 51.9%
+
+(b) Tar - 7.7 mg Nicotine - 0.59 mg NRE ~ 50.1%
+
+Filter Section
+
+*Length: 20 mm with 12 mo grooves
+*Circumference: 24.85 mm prior to grooving
+23.6 mm over grooves using Filtrona Tape Gauge
+*Pressure drop (120 mm filter rod): 56.6 cm W.G. (Tube sealed)
+47.2 em W.G. (Tube open}
+*Filter Tow: Cellulose acetate, "Y" cross section, 2.1
+denier/filament, 42000 total denier
+*Tubing: Cellulose acetate, 0.495 + 0.025 mm I.B., 0.18 mm wall
+thickness
+*Combiner Wrap Permeability: 9500 CORESTA Units
+Grooves: 4 at a nominal aerodynamic diameter of 0.7 mm
+
+Mouthpiece
+
+*Filtrona SCS-1 cross type, non-wrapped cellulose acetate, 2.5
+denier/filament (estimate), " cross section, pressure drop
+with interior and exterior sealed ~ 16.0 cm W.G./7mm length.
+
+Notes
+* Target Specification
+
+(a) Measured for an 84 mm GEMINI at 52% ventilation
+{b) Measured for a 97 mm GEMINI at 50% ventilation
+
+620348733
+

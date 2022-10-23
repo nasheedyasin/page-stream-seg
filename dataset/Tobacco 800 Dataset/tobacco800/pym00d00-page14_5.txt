@@ -1,0 +1,57 @@
+Sudol, Marius 129-68-8626
+
+tein that interacts with the yes kinase. The molecular clone encoding this protein was isolat-
+ed from a cDNA expression library constructed from an enriched preparation of Purkinje
+cells,
+
+To study the functions of tyrosine kinases it is important to identify their substrates.
+Many cellular proteins have been identified that are phosphorylated on tyrosine by activated
+forms of the kinases in transformed cells. A number of laboratories are trying to purify these
+proteins using conventional biochemical and molecular biology techniques, and to show a
+causal relationship between tyrosine phosphorylation of these proteins and cell transforma-
+tion. Our aim is to identify the substrates of proto-oncogenes. We propose to isolate sub-
+strates of the cellular sre kinase from A431 human epidermoid carcinoma cells treated with
+calcium ionophore. We expect that characterizing the substrate proteins for the c-sre kinase
+will provide clues to the function of this proto-oncogene.
+
+SIGNIFICANCE
+
+Several experimental approaches indicate that receptor and non-receptor tyrosine kinases
+form complexes with cellular proteins. In the case of the receptors a number of molecules in-
+teracting with them have been identified and some of these molecules have been implicated in
+receptor-mediated signal transduction processes (32). Our research is aimed at dissecting the
+cellular and molecular processes in which two representative non-receptor tyrosine kinases,
+namely yes and sre, are involved. The immediate goals of this research are the identification
+of molecules that associate with and are phosphorylated by tyrosine kinases, and the charac-
+terization of processes by which these molecules communicate. We anticipate that our results
+will have broad implications for understanding the processes that contro! cellular growth and
+differentiation. Moreover, knowledge of the molecular mechanisms of proto-oncogene action
+could also provide the basis for an understanding of how transforming genes subvert normal
+growth control, and could point towards potential therapies for controlling malignant diseases
+in humans.
+
+EXPERIMENTAL DESIGN & METHODS
+
+a, Anti-idiotypic approach
+
+We have shown that polyomavirus middle-T antigen can associate with and be phospho-
+rylated by the c-yes kinase (13). Two other tyrosine kinases, src and fyn, are known to bind
+to middle-T protein as well (3,4,15). In the case of sre and yes, this association changes the
+specific activity of these enzymes in autophosphorylation assays and in the phosphorylation of
+an exogenous “substrate” protein, enolase. In addition to the implications for the mechanism
+of transformation by polyomavirus, these findings set the stage for studying cellular proteins
+that might interact with tyrosine kinases in a manner similar to that shown for the viral
+middle-T protein. We decided to use an anti-idiotypic approach to search for cellular pro-
+teins that interact with and possibly modulate the yes and sre kinases. This approach is
+based on the observation that antibody directed to antigen may itself engender an immune
+response (10,18). The resulting anti-idiotypic antibody mimics the original antigen and there-
+fore can bind with high affinity molecules that interact with the antigen.
+
+It has been proposed that the amino terminal portions of non-receptor type tyrosine ki-
+nases have a regulatory role because mutations in these regions can influence the enzymatic
+activity of these proteins (21,23). In addition, these mutations produce host-range mutant
+phenotypes which could be explained only by assuming the interaction of the amino terminal
+domains of tyrosine kinases with unknown cellular proteins (21). To test this hypothesis we
+generated antibodies against a polyclonal antibody directed to the amino terminal region of
+the yes protein (containing the entire SH3 domain and the yes-specific region at the amino-
+

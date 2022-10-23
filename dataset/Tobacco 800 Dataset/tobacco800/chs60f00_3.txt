@@ -1,0 +1,49 @@
+TABLE IT
+
+RATIO OF WET/DRY DELIVERIES BY COMPONENT CLASSIFICATION
+
+Classification . . Wet/Dry Deliveries
+Saturated Methane
+Hydrocarbons
+Ethane
+Propane (-42°C)*
+°
+n-Butane (-0.5 C)
+
+Unsaturated Ethylene
+Hydrocarbons
+
+Propylene (-48°C)
+
+Isobutylene (-6.9°C)
+
+2-Butene (0.89°C)
+2-Methyl 1-butene (20°C)
+
+Isoprene (34°C)
+
+Aldehydes Acetaldehyde
+Acrolein
+Proptonaldehyde
+
+Isobutyraldehyde
+
+Aromatics Benzene
+Toluene
+
+0-Xylene
+
+Ketones Acetone
+
+Methyl Ethyl Ketone
+
+Others Acetonitrile
+
+Methyl Chloride 1.54
+
+620840105
+
+‘polling point at atmospheric pressure
+
+HuM/6-13-69
+

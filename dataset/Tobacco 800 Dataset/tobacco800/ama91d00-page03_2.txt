@@ -1,0 +1,66 @@
+section If] ~- Telephone Panel
+
+. 600 black smokers
+
+. Augmented black sample of A&U telephone panel
+Identical telephone questionnaire as A&U Wave 6
+Includes lower minimum cigarette consumption
+for qualifying respondents
+
+QUESTIONNAIRE
+|
+
+Section Z:j Mail Panel
+Incidence: household
+Personal importance (low tar vs. best taste)
+Consumption
+Habit |
+Brands| purchased
+Trial
+Quantity of purchases
+Favorite brand
+Switching
+
+Purchase intent (style, type)
+Brand purchase intent
+
+Aided ad awareness
+
+Slogan! recall
+
+Ad situation recall
+Demographics
+
+Household members
+
+Section IT - Phone Panel
+
+Incidence: Respondent only
+Consumption: Reported in packs
+Unaided brand image
+
+Menthol purchase
+
+Favorite brand
+
+Trial
+
+Consumption of favorite brand (%)
+Preference of favorite: <= > Others
+Consumption
+
+Demographics
+
+cost
+
+Mail panel (1982-86Y) is authorized at $17,820.
+Telephone (1982-120Y) is authorized at $37,950.
+
+REPORTING
+
+oA separate report comparing Black and White smokers.
+
+Oz29TS029
+
+PRODUCED FROM B&W WEB SITE 670516720
+

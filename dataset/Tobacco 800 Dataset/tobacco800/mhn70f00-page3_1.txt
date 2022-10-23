@@ -1,0 +1,46 @@
+Research Department
+
+RESTRICTED
+.MEMORANDUN - MEM~B089-81 August 31, 198)
+
+DETERMINATION OF RESIDUAL AMINO ACIDS IN SUGAR-AMINO
+ACID REACTION MIXTURE METCAL
+
+Summary
+
+At the request of the Product Department, the commercial tobacco flavoring
+mixture METCAL was analyzed to determine levels of residual amino acids.
+
+A preparative cation exchange chromatographic procedure was modified to
+Separate the amino acids, AutoAnalyzer equipment was used to construct 4
+post-column ninhydrin reaction unit to monitor amino acide eluted from the
+colum, Levels of the residual amino acids determined are as follows:
+valine (1.5%), aspartic acid (0.45%), phenylalanine (0.18%), glutamic acid
+(<0,03%), proline (<0,07%), glutamine (<0.03%), and histidine (<0.03%).
+
+troduction
+METCAL is a commercial flavoring mixture of the Maillard reaction type!,
+
+which is generally prepared by heating sugar(s) and amino acid(s) in
+mixture. The starting amino acids in METCAL were aspartic acid, valine,
+
+phenylalanine, glutamic acid, proline, glutamine, and histidine’. In
+
+literature, three categories of analytical methods have been used to
+determine levels of amino acids in various samples: ion exchange chromato-
+graphy, gas chromatography, and high performance liquid chromatography.
+Amino acid analyzers and various improved procedures of ion exchange
+chromatography? are so far the most widely used methods. In fact,
+
+modern amino acid analyzers incorporate advantages from both ion exchange
+chromatography and high performance liquid chromatography. In gas
+chromatographic determinations of amino acids, samples have to be deriva-
+tized to increase volatility. Since acid-catalyzed esterification could
+hydrolyze and convert glutamine to glutamic acid, these gas chromato-—
+graphic methods would give only the sum of glutamine and glutamic
+
+acid’, High performance liquid chromatography which employs reversed
+phase or ton-paired principles for amino acid analysis still needs better
+
+20836738
+

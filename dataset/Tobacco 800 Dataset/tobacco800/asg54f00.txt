@@ -1,0 +1,50 @@
+Tobacco
+institute
+Testing
+Laboratory
+
+2 Taft Court
+Rockville,
+Maryland 20850
+(301) 294-8582
+
+September 28, 1993
+
+TO: Board of Directors
+FROM: William P. Daigle
+
+SUBJECT: Interlaboratory Results - Test #11
+
+Enclosed is a summary of data for interlaboratory test #11 as
+reported by the participating laboratories. Tables I thru VI
+reveal the means and standard deviations for "Tar", Nicotine,
+
+de, Puff, TPM and Water.
+
+Figures 1 thru 3 illustrate the least square regression lines
+of each laboratory's mean against the mean of all laboratories for
+the seven samples tested. These graphs were done for "Tar",
+Nicotine and Carbon Monoxide. Included in each figure is the
+listing of intercepts and slopes of the regression lines. As
+indicated, the listed order of the laboratory's statistics
+correlates to the intercepts of the Y-axis at each extreme.
+
+Sincerely,
+
+Hille? Daggt
+
+William P. Daigle
+Assistant Director
+
+Board of Directors
+
+Brenda T. Hodge
+
+S. T. Jones
+
+J. F. Whidby
+
+John H, Lauterbach
+Byron F, Price
+Gregory A. Sulin
+

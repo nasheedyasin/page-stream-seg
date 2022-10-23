@@ -1,0 +1,48 @@
+Continued from previous page. Do not use additional pages.
+
+The immediate goals of this research are the identification
+of molecules that associate with tyrosine kinases and the characterization
+of processes by which these molecules communicate with each other.
+
+It is anticipated that our results will have broad implications for
+our understanding of the processes that control cellular growth and
+differentiation. Moreover, knowledge of the molecular mechanisms
+of proto-oncogene action could also provide the basis for an understanding
+of how transforming genes subvert normal growth control, and could point
+towards potential therapies for controlling malignant diseases in humans.
+
+Preliminary experiments using an anti-idiotypic approach
+identified a 65 kD protein that interacts with the yes kinase.
+A cDNA clone for that protein was isolated from an expression
+library.
+
+Liat the SPECIFIC AIMS of this research project (as opposed to the broad goals presented ig Item 7).
+Do not exceed the space allotted below.
+I propose:
+
+To characterize the complete cDNA sequence encoding the 65 kD protein
+and to confirm the predicted features (membrane spanning domains, phosphorylation
+sites) with biochemical tests using anti-idiotypic antibodies.
+
+To generate antibodies against the 65 kD protein by expressing its cDNA in
+bacteria. We will select those fragments of the DNA which do not encode
+
+part of the protein involved in the apparent interaction with the yes
+
+kinase. These antibodies will be used to show the direct interaction between
+the c-yes gene product and the 65 kD protein.
+
+Once the direct physical interaction is documented and its effect on the kinase
+activity of the yes protein is shown, we will construct various deletion
+mutants of c-yes and of the 65 kD protein in order to map accurately
+
+the domains involved in the interaction between these proteins.
+
+To generate anti-idiotypic antibodies to other domains of yes and src
+proteins, specifically to the SH2 domain and to the extreme amino terminal
+domain involved in the interaction with membrane receptors, using available
+polyclonal and monoclonal antibodies against yes and src.
+
+To isolate substrates of the src proto-oncogene kinase from A431 cells
+treated with calcium ionophore.
+

@@ -1,0 +1,54 @@
+BROWN & WILLIAMSON TOBACCO CORPORATION
+
+INTERNAL COARESPONDENCE
+
+MR. T. F. RIEL
+
+WR. C.J. ROSENE
+MR. T. C. CRAVOTTA
+
+DR. T. C. HSIEH & MR. H. W. MAYNOR/bfw/314 DATE JANUARY 8, 1980
+MAILLARD REACTION "A" MIXTURE 29099
+
+_MAILLARD REACTION "A" MIXTURE 29099
+
+Reaction "a" flavor mixture provided by the Product Department was partitioned
+between diethyl ether and water. This communication reports the twelve ether
+soluble components identified so far. A list of Maillard reaction related
+compounds from literature review is also included. Further separation and
+characterization of flavor components in the ether extract and possible
+flavor precursors (e.g., Amadori compounds) in the aqueous fraction will be
+reported later.
+
+MATERIAL AND METHODS
+Ether Extraction
+
+To a 30-g sample of reaction "A" mixture was added 300 ml of methanol/
+water (70/30). The sample was mixed thoroughly and filtered with suction.
+White crystals retained on the filter paper were identified as amino acid
+valine. The methanol in the filtrate was evaporated under reduced pressure.
+The sample was then extracted with 100 ml of diethyl ether four times.
+
+The aqueous fraction was saved for further analyses. <The combined ether
+layers were washed with 50 ml of NaCl-saturated water two times. Ten grams
+of anhydrous sodium sulfate was added to the ether extract followed by
+
+filtration. The filtrate was evaporated under reduced pressure to remove
+ether.
+
+Gas Chromatography with Sensory Evaluation
+
+The ether extract was chromatographed on a 60 meter glass capillary colum
+of 12% Carbowax 20M in a Perkin-Elmer gas chromatograph (Model 900) equipped
+with an exit port for organoleptic evaluation of part of the column effluent.
+
+Gas Chromatography/Mass Spectrometry
+
+Aliquots of the ether extract were also analyzed using a Finnigan 4021 GC/MS/
+Data System (Environmental Consultants, Inc.) in an electron impact mode.
+Fragmentation of the capillary gas chromatographic effluents in the ion
+source was followed by repetitive scanning (1-3 sec/scan) of the entire mass
+range. The relative abundance of each fragment was recorded on a computer
+disc. Mass spectral identification was carried out by computer reference
+library matching and/or manual interpretation.
+

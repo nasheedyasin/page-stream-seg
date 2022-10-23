@@ -1,0 +1,33 @@
+MRD #1984-96/97/151/152
+
+RALEIGH VICEROY COMPETITIVE REP.
+
+"A" VS "A" VS ays MAN VS
+
+RALEIGH VICEROY MARLBORO WINSTON
+(330%) (330%) (330%) (330*)
+
+RALEIGH "A" ' (990%) XX .XX+++ XX.XX- XX.XK XX. XK
+Current RALEIGH = (330) X.XX
+Current VICEROY , (330)
+
+Marlboro | (440)
+
+Winston | (440) XX.XX
+
+"A" Won "A" Lost "A" Won
+{
+*Number of smokers smoking RALEIGH "A".
+
+In addition to Total Smokers, please run by male, female, 21-34, 35+, Brand Smoked
+(Marlboro, Winston, 'Camel/Others) breaks.
+
+1
+i
+|
+
+DAB/fmr
+7/10/84
+
+Sebve0oses
+
