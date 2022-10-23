@@ -38,7 +38,7 @@ def main(img_path: str, txt_path: str, output_path: str,
         if p.suffix in EXTNS_SUPP
     ]
 
-    img_files = natsorted(img_files)
+    img_files = natsorted(img_files, key=lambda x: str(x))
 
     # The way the loops are structured:
     # Outer Loop creates new documents
@@ -103,13 +103,13 @@ def main(img_path: str, txt_path: str, output_path: str,
     data_json.update(documents=doc_train)
     with open(str(Path(output_path) / "train_data.json"), 'w',
               encoding='utf-8') as data_file:
-        data_file.wrtie(json.dumps(data_json))
+        data_file.write(json.dumps(data_json))
 
     # Save the test data
     data_json.update(documents=doc_test)
     with open(str(Path(output_path) / "test_data.json"), 'w',
               encoding='utf-8') as data_file:
-        data_file.wrtie(json.dumps(data_json))
+        data_file.write(json.dumps(data_json))
 
 
 if __name__ == '__main__':
