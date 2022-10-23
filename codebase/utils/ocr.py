@@ -9,7 +9,7 @@ from abc import ABC, abstractmethod, abstractproperty
 
 class BaseOcr(ABC):
     def __init__(self) -> None:
-        """_summary_Initialize what your OCR Engine requires here.
+        """Initialize what your OCR Engine requires here.
         For instance if you are using GVision, maybe you need an API key.
         """
         pass
@@ -72,7 +72,7 @@ class TesseractOcr(BaseOcr):
             raw_data (str): Path to the raw files to be OCRed. Processes all
             files in the dorectory and its sub-directories.
             output_dump (str): Path to save the output files.
-            output_format (str, optional): Format to save outpu in.
+            output_format (str, optional): Format to save output in.
             Defaults to 'txt'.
             lang_hints (Union[List[str], str], optional): Language hints to the
             OCR engine. Hinting occasionally improves OCR perfermoance. Ensure
