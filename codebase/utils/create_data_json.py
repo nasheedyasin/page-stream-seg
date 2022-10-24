@@ -139,4 +139,4 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    main(args.img_path, args1.txt_path, args.output_path, args.train_data_frac)
+    main(args.img_path, args.txt_path, args.output_path, args.train_data_frac)
